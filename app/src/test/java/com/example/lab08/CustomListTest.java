@@ -15,6 +15,7 @@ public class CustomListTest {
         list.addCity(calgary);
 
         // this should fail because hasCity() doesn't exist yet
+        // failing test for hasCity
         assertTrue(list.hasCity(calgary));
     }
 
