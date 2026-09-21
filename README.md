@@ -7,7 +7,7 @@
 ## Collaborators: None
 
 ## Development Environment: 
-Python 3.12.3, Django Version 6.1.1
+Python 3.14.4, Django Version 6.1.1
 
 ## AI Assistance Disclosure:
 AI assistance (Claude) was used to help develop and refine some parts of the code. 
