@@ -4,7 +4,7 @@
 **CCID:** eshaankr  
 **Lab 1 Question:** https://cmput404-fall2026.github.io/labs/django/  
 
-##Collaborators: None
+## Collaborators: None
 
 ## Development Environment: 
 Python 3.12.3, Django Version 6.1.1
